@@ -2,8 +2,11 @@
 # A SNEAK PEEK INTO THE LIFE OF A YOUNG ENTHUSIASTIC TEENAGER
 
 ### About me
+We remember how the Powerpuff Girls were made: sugar, spice and everything nice. Well, alongside those, introverted-and-ambitious, meticulous and spontaneous were the ingredients used… oh, his chemical X? Mathematics. And his wildcard? Astronomy. Seems very, out of order and contrasting? Might make you curious; why is an Astrophile who’s into numbers doing development and Data Management at a software house? Well, the answer is quite easy, he's simply versatile. He has vast knowledge and adaptability regarding all these matters. Having different liking of different topics, building up interest in different aspects all correlates to the enthusiasm within. And if you're thinking he's a Jack of all trades, we assure you he's not. He has given time and passion to all of the things he is doing and has mastered them.
+One other thing he loves is Gaming. Gaming might not seem of any good to people, but in his own words, Arthur Morgan in RDR2 has made him find himself. "Just do one thing or the other, don’t try to be two people at once". The Problem, He's more than two people at once.
 
-
+**My life motto?**
+>     "Make your character good for the people."
 
 <!--
 **MrRaboobi/MrRaboobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
