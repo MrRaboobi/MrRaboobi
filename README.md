@@ -1,4 +1,5 @@
-### Hi there 👋
+# BONJOUR AMIGOS
+# A SNEAK PEEK INTO THE LIFE OF A YOUNG ENTHUSIASTIC TEENAGER
 
 <!--
 **MrRaboobi/MrRaboobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
